@@ -1,1 +1,1 @@
-# gfg-solved-questions
+# GFG-SOLVED-QUESTIONS
